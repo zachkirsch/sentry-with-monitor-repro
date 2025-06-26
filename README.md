@@ -1,5 +1,7 @@
 # Repro for withMonitor crashing server
 
+Issue: https://github.com/getsentry/sentry-javascript/issues/16749
+
 To run the repro:
 
 1. `npm install`
