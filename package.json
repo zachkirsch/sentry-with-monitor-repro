@@ -1,0 +1,22 @@
+{
+  "name": "sentry-with-monitor-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@sentry/node": "^9.32.0",
+    "express": "^5.1.0",
+    "tsx": "^4.20.3"
+  }
+}
